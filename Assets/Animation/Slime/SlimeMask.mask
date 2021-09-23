@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SlimeMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: DeformationSystem
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Chest_M
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Chest_M/Head_M
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Chest_M/Head_M/HeadEnd_M
+    m_Weight: 1
+  - m_Path: model:SlimeModel
+    m_Weight: 1
+  - m_Path: model:SlimeModel/model:Base_Plane_001_Outer
+    m_Weight: 1
+  - m_Path: model:SlimeModel/model:Eyes_Cube_005_eye
+    m_Weight: 1
+  - m_Path: model:SlimeModel/model:heart_Cube_003_Heart
+    m_Weight: 1
+  - m_Path: model:SlimeModel/model:Inner_Plane_002_Inner
+    m_Weight: 1
+  - m_Path: model:SlimeModel/model:Outer_Plane_Outer
+    m_Weight: 1
+  - m_Path: MotionSystem
+    m_Weight: 1
+  - m_Path: MotionSystem/AimSystem
+    m_Weight: 1
+  - m_Path: MotionSystem/BendSystem
+    m_Weight: 1
+  - m_Path: MotionSystem/ConstraintSystem
+    m_Weight: 1
+  - m_Path: MotionSystem/DrivingSystem
+    m_Weight: 1
+  - m_Path: MotionSystem/DynamicSystem
+    m_Weight: 1
+  - m_Path: MotionSystem/FKIKSystem
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem/FKFollowRoot
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem/FKFollowRoot/FKOffsetRoot_M
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem/FKFollowRoot/FKOffsetRoot_M/FKExtraRoot_M
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem/FKFollowRoot/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem/FKFollowRoot/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M/FKXRoot_M
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem/FKFollowRoot/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M/FKXRoot_M/FKOffsetChest_M
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem/FKFollowRoot/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M/FKXRoot_M/FKOffsetChest_M/FKExtraChest_M
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem/FKFollowRoot/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M/FKXRoot_M/FKOffsetChest_M/FKExtraChest_M/FKChest_M
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem/FKFollowRoot/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M/FKXRoot_M/FKOffsetChest_M/FKExtraChest_M/FKChest_M/FKXChest_M
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem/FKFollowRoot/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M/FKXRoot_M/FKOffsetChest_M/FKExtraChest_M/FKChest_M/FKXChest_M/FKOffsetHead_M
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem/FKFollowRoot/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M/FKXRoot_M/FKOffsetChest_M/FKExtraChest_M/FKChest_M/FKXChest_M/FKOffsetHead_M/FKExtraHead_M
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem/FKFollowRoot/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M/FKXRoot_M/FKOffsetChest_M/FKExtraChest_M/FKChest_M/FKXChest_M/FKOffsetHead_M/FKExtraHead_M/FKHead_M
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem/FKFollowRoot/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M/FKXRoot_M/FKOffsetChest_M/FKExtraChest_M/FKChest_M/FKXChest_M/FKOffsetHead_M/FKExtraHead_M/FKHead_M/FKXHead_M
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem/FKFollowRoot/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M/FKXRoot_M/FKOffsetChest_M/FKExtraChest_M/FKChest_M/FKXChest_M/FKPS1Head_M
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem/FKFollowRoot/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M/FKXRoot_M/FKOffsetChest_M/FKExtraChest_M/FKChest_M/FKXChest_M/FKPS1Head_M/FKPS2Head_M
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem/FKFollowRoot/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M/FKXRoot_M/FKPS1Chest_M
+    m_Weight: 1
+  - m_Path: MotionSystem/FKSystem/FKFollowRoot/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M/FKXRoot_M/FKPS1Chest_M/FKPS2Chest_M
+    m_Weight: 1
+  - m_Path: MotionSystem/GlobalSystem
+    m_Weight: 1
+  - m_Path: MotionSystem/GlobalSystem/GlobalFollowMain
+    m_Weight: 1
+  - m_Path: MotionSystem/IKSystem
+    m_Weight: 1
+  - m_Path: MotionSystem/IKSystem/IKCurve
+    m_Weight: 1
+  - m_Path: MotionSystem/IKSystem/IKFollow
+    m_Weight: 1
+  - m_Path: MotionSystem/IKSystem/IKHandle
+    m_Weight: 1
+  - m_Path: MotionSystem/IKSystem/IKHandle/IKHandleFollowMain
+    m_Weight: 1
+  - m_Path: MotionSystem/IKSystem/IKJoints
+    m_Weight: 1
+  - m_Path: MotionSystem/IKSystem/IKMessure
+    m_Weight: 1
+  - m_Path: MotionSystem/IKSystem/IKStatic
+    m_Weight: 1
+  - m_Path: MotionSystem/MainSystem
+    m_Weight: 1
+  - m_Path: MotionSystem/MainSystem/Main
+    m_Weight: 1
+  - m_Path: MotionSystem/RootSystem
+    m_Weight: 1
+  - m_Path: MotionSystem/RootSystem/LegLockConstrained
+    m_Weight: 1
+  - m_Path: MotionSystem/RootSystem/RootFollowMain
+    m_Weight: 1
+  - m_Path: MotionSystem/RootSystem/RootFollowMain/RootOffsetX_M
+    m_Weight: 1
+  - m_Path: MotionSystem/RootSystem/RootFollowMain/RootOffsetX_M/RootExtraX_M
+    m_Weight: 1
+  - m_Path: MotionSystem/RootSystem/RootFollowMain/RootOffsetX_M/RootExtraX_M/RootX_M
+    m_Weight: 1
+  - m_Path: MotionSystem/TwistSystem
+    m_Weight: 1
